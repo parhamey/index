@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: black;
+            color: chartreuse;
+            font-size: 50px;
+        }
+
+        .container {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        .hello {
+            text-align: center;
+        }
+    </style>
+    <title>Unknown</title>
+</head>
+<body>
+    <div class="container">
+        <div class="hello">
+            <h1>Hello world!</h1>
+            <h2>we will come soon:)</h2>
+        </div>
+    </div>
+</body>
+</html>
